@@ -1,15 +1,33 @@
-Install Markdown Reader extension in your favourite browser: https://md-reader.github.io/install
+# Welcome to Your Learning Hub!
 
-- Do **pair programming** using:
-  - [ChatGPT](https://chatgpt.com/)
-  - [Claude](https://claude.ai/)
-  - [Grok](https://grok.com/)
-  - [Perplexity](https://www.perplexity.ai/)
-  - [Google Gemini](https://gemini.google.com/app)
- 
-# 🛠️ Java 21 + IntelliJ IDEA Setup Guide (Windows)
-See [Setup](./setup.md) page for details
+This page serves as a central index to various resources for your programming journey.
 
-# 📘 Core Java Basics
-This [guide](./core_java_basics.md) offers a detailed roadmap for mastering **Core Java** as a beginner. It covers essential syntax, concepts, examples, and best practices to build a solid foundation for further Java development.
+---
 
+## 🚀 AI-Powered Pair Programming Tools
+
+Enhance your coding experience by pair programming with these AI assistants:
+
+- [ChatGPT](https://chatgpt.com/)
+- [Claude](https://claude.ai/)
+- [Grok](https://grok.com/)
+- [Perplexity AI](https://www.perplexity.ai/)
+- [Google Gemini](https://gemini.google.com/app)
+
+---
+
+## 🛠️ Java Development Setup
+
+Get started with Java 21 and IntelliJ IDEA on Windows:
+
+- [Java 21 + IntelliJ IDEA Setup Guide (Windows)](./setup.md)
+
+---
+
+## 📚 Core Java Fundamentals
+
+Master the basics of Java with this comprehensive guide:
+
+- [Core Java Basics Guide](./core_java_basics.md)
+
+---
