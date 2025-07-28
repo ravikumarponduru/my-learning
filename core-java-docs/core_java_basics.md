@@ -464,15 +464,9 @@ list.add("Python");
 
 ---
 
-## ✅ 15. What to Learn Next?
+## ✅ 15. Exercises
 
-- Java Collections (`List`, `Map`, `Set`)
-- File I/O
-- Lambda Expressions
-- Streams API (Java 8+)
-- Threads and Concurrency
-- JavaFX (GUI)
-- Build Tools (Maven, Gradle)
+- [001](./exercises/001.md)
 
 ---
 
